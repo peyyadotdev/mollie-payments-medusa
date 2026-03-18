@@ -1,6 +1,6 @@
 # Mollie Payments for Medusa
 
-A comprehensive payment provider plugin that enables [Mollie](https://www.mollie.com/gb/) payments on [Medusa](https://medusajs.com/) V2 projects.
+A comprehensive payment provider plugin that enables [Mollie](https://www.mollie.com/se/) payments on [Medusa](https://medusajs.com/) V2 projects.
 
 ## Table of Contents
 
