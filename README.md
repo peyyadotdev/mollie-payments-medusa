@@ -36,13 +36,13 @@ A comprehensive payment provider plugin that enables [Mollie](https://www.mollie
 - **Automatic Capture**: Configurable automatic capture of payments.
 
 > [!WARNING]
-> _This plugin has not been tested on a live store. Please conduct thorough testing before using it in a production environment. I am not responsible for any missed or failed payments resulting from the use of this plugin. If you encounter any issues, please report them [here](https://github.com/VariableVic/mollie-payments-medusa/issues)._
+> _This plugin has not been tested on a live store. Please conduct thorough testing before using it in a production environment. I am not responsible for any missed or failed payments resulting from the use of this plugin. If you encounter any issues, please report them [here](https://github.com/peyyadotdev/mollie-payments-medusa/issues)._
 
 ## Prerequisites
 
 - Medusa server v2.3.0 or later
 - Node.js v20 or later
-- A [Mollie](https://www.mollie.com/gb/) account and API key with payment methods enabled.
+- A [Mollie](https://www.mollie.com/se/) account and API key with payment methods enabled.
 
 > [!NOTE]
 > _You can get an API key from your Mollie dashboard: click Browse > Developers > API keys_
